@@ -8,6 +8,8 @@
 
 ## 🐱‍👤프로젝트 결과 
 - `[제주를사랑하는사람들] 본선자료.pdf`: 분석 결과를 정리한 [최종 본선 자료](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization/blob/master/%5B%EC%A0%9C%EC%A3%BC%EB%A5%BC%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94%EC%82%AC%EB%9E%8C%EB%93%A4%5D%20%EB%B3%B8%EC%84%A0%EC%9E%90%EB%A3%8C.pdf)입니다.
+![](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization/blob/master/KCB%20%EC%9E%A0%EC%9E%AC%EC%A7%80%EC%97%AD%20%EC%84%A0%EC%A0%95.png?raw=true)
+![](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization/blob/master/KCB%20%EC%9E%A0%EC%9E%AC%EC%A7%80%EC%97%AD%20%EC%A3%BC%EA%B1%B0%C2%B7%EC%82%B0%EC%97%85%20%EC%9E%85%EC%A7%80%20%EC%84%A0%EC%A0%95.png?raw=true)
 
 ## 👩‍👧‍👧프로젝트 참여 인원
 - 고지형, 강원빈, 박소연, 박재우
