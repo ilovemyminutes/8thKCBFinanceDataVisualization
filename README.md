@@ -1,7 +1,7 @@
 # 🏆KCB 금융스타일 시각화 경진 대회
 - DACON & KCB 개최 KCB 금융스타일 시각화 경진 대회에서 우승한 프로젝트입니다.
-- 고객의 금융 활동을 분석하여  **금융사가 주목할 잠재 지역의 주거·산업단지 선정**했습니다.
-- 데이터를 다운로드하기 위해서는 DACON 및 KCB에 문의하셔야 합니다.
+- 고객의 금융 활동을 분석하여  **금융사가 주목할 잠재 지역의 주거·산업단지를 선정**했습니다.
+- 데이터를 다운로드하기 위해서는 [DACON](https://dacon.io/) 및 [KCB](http://www.koreacb.com/)에 문의하셔야 합니다.
 
 ## 🏃‍♂️ 프로젝트 기간
 - 2019.07-2019.09
@@ -12,7 +12,7 @@
 ![](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization/blob/master/KCB%20%EC%9E%A0%EC%9E%AC%EC%A7%80%EC%97%AD%20%EC%A3%BC%EA%B1%B0%C2%B7%EC%82%B0%EC%97%85%20%EC%9E%85%EC%A7%80%20%EC%84%A0%EC%A0%95.png?raw=true)
 
 ## 👩‍👧‍👧프로젝트 참여 인원
-- 고지형, 강원빈, 박소연, 박재우
+- [고지형](https://github.com/iloveslowfood), 강원빈, 박소연, 박재우
 
 ## 🧾데이터
 * `credit_card_data.csv`
